@@ -29,7 +29,7 @@ Este repositório contém o backend de autenticação para a aplicação de logi
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/TN-Junior/login-app-backend.git
    ```
 
 2. Configure o arquivo `application.properties` com as credenciais do seu banco de dados:
